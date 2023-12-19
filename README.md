@@ -1,33 +1,51 @@
 # Flutter Academic Practice 001
+## José Antonio Márquez Flores
 
 🚀 Welcome to the Flutter Academic Practice 001 repository! 🚀
 
 ## Overview
 
-This repository serves as a comprehensive guide and hands-on practice for academic purposes to enhance your skills in Flutter development. Whether you're a beginner looking to dive into mobile app development or an experienced developer exploring Flutter's capabilities, this practice set is designed to provide a structured and engaging learning experience.
+Practice 001:
+
+- You must create a copy in Flutter.
+- The widgets must be organized in folders.
+- Do not generate an infinite tree of widgets.
+- You should research on the [official Flutter documentation](https://docs.flutter.dev/) for possible widgets that we haven't covered in class, such as:
+    - [FlutterLogo](https://api.flutter.dev/flutter/material/FlutterLogo-class.html)
+    - [Icon](https://api.flutter.dev/flutter/widgets/Icon-class.html)
 
 ## Practice Focus
 
 📱 **Topic: Introduction to Flutter Basics**
 
-In Practice 001, we will cover the fundamental concepts of Flutter, including:
+In Part 1, we will cover the fundamental concepts of Flutter, including:
 
-- Setting up a Flutter development environment
-- Creating a simple Flutter project
-- Understanding the Flutter widget tree
-- Implementing basic UI components
-- Managing state in Flutter applications
+- Setting up a easy project structure based on Columns and Rows
+- Flutter Logo handling
+- Navbar implementation
+- Handling of Flutter Icons such as Search
+- Managing of Buttons and its customizations
+
+<img src="https://github.com/jousemarquez/MarquezFloresD001/raw/master/PART1.png"></img>
+
+In Part 2, I've created a dynamic counter following the Flutter concepts:
+
+ - Setting up a Popping masive font to rule up counter
+ - Methods to handling increment, decrement and back to the original counter set (13)
+ - Handling of Buttons properties such as Borders, colors and Flutter icons like Refresh.
+
+<img src="https://github.com/jousemarquez/MarquezFloresD001/raw/master/PART2.png"></img>
 
 ## How to Use
 
 1. **Clone the Repository:**
 ```
-git clone https://github.com/your-username/flutter-academic-practice-001.git
+git clone https://github.com/jousemarquez/MarquezFloresD001
 ```
 
 2. **Navigate to Practice 001:**
 ```
-cd flutter-academic-practice-001
+cd MarquezFloresD001
 ``````
 
 3. **Follow the Practice Guide:**
