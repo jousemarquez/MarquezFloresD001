@@ -7,14 +7,14 @@ class Button extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       alignment: Alignment.center,
-      width: 200,
-      height: 90,
+      width: 250,
+      height: 70,
       decoration: const BoxDecoration(
-        color: Colors.blue,
+        color: Color(0xFF68B7F7),
         borderRadius: BorderRadius.all(Radius.circular(20)),
       ),
       child: const Text(
-        'View Course',
+        'Contador',
         style: TextStyle(
             fontWeight: FontWeight.bold,
             color: Color.fromARGB(206, 255, 255, 255),

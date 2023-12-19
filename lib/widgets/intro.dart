@@ -17,6 +17,7 @@ class Intro extends StatelessWidget {
             Description(),
             SizedBox(),
             Button(),
+            /*TODO ChevronDown(),*/
           ],
         ),
       ),

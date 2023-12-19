@@ -11,7 +11,7 @@ class Menu extends StatelessWidget {
         Text(
           'Home',
           style: TextStyle(
-            fontSize: 20,
+            fontSize: 36,
             fontWeight: FontWeight.w500,
           ),
         ),
@@ -21,7 +21,7 @@ class Menu extends StatelessWidget {
         Text(
           'Widgets',
           style: TextStyle(
-            fontSize: 20,
+            fontSize: 36,
             fontWeight: FontWeight.w500,
           ),
         ),
@@ -31,7 +31,7 @@ class Menu extends StatelessWidget {
         Text(
           'About Us',
           style: TextStyle(
-            fontSize: 20,
+            fontSize: 36,
             fontWeight: FontWeight.w500,
           ),
         ),
@@ -40,8 +40,8 @@ class Menu extends StatelessWidget {
         ),
         Icon(
           Icons.search,
-          color: Colors.grey,
-          size: 35,
+          color: Color(0xFF626262),
+          size: 40,
         ),
       ],
     );

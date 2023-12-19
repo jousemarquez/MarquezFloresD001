@@ -12,7 +12,7 @@ class Description extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Text(
-            'BUILD YOUR WEBSITES WITH FLUTTER',
+            'APRENDE A CREAR WEBS CON FLUTTER',
             style: TextStyle(fontSize: 45, fontWeight: FontWeight.bold),
             maxLines: 2,
           ),
@@ -20,7 +20,7 @@ class Description extends StatelessWidget {
             height: 50,
           ),
           Text(
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ',
+            'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
             style: TextStyle(
               fontSize: 20,
             ),
