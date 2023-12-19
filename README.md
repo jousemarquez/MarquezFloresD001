@@ -1,7 +1,7 @@
-# Flutter Academic Practice 001
+# Flutter Practice D001
 ## José Antonio Márquez Flores
 
-🚀 Welcome to the Flutter Academic Practice 001 repository! 🚀
+🚀 Flutter Practice D001! 🚀
 
 ## Overview
 
