@@ -1,7 +1,7 @@
-# Flutter Practice D001
+# Flutter Practice D01
 ## José Antonio Márquez Flores
 
-🚀 Flutter Practice D001! 🚀
+🚀 Flutter Practice D01! 🚀
 
 ## Overview
 
@@ -26,7 +26,7 @@ In Part 1, we will cover the fundamental concepts of Flutter, including:
 - Handling of Flutter Icons such as Search
 - Managing of Buttons and its customizations
 
-<img src="https://github.com/jousemarquez/MarquezFloresD001/raw/master/PART1.png"></img>
+<img src="https://github.com/jousemarquez/MarquezFloresD01/raw/master/PART1.png"></img>
 
 In Part 2, I've created a dynamic counter following the Flutter concepts:
 
@@ -34,18 +34,18 @@ In Part 2, I've created a dynamic counter following the Flutter concepts:
  - Methods to handling increment, decrement and back to the original counter set (13)
  - Handling of Buttons properties such as Borders, colors and Flutter icons like Refresh.
 
-<img src="https://github.com/jousemarquez/MarquezFloresD001/raw/master/PART2.png"></img>
+<img src="https://github.com/jousemarquez/MarquezFloresD01/raw/master/PART2.png"></img>
 
 ## How to Use
 
 1. **Clone the Repository:**
 ```
-git clone https://github.com/jousemarquez/MarquezFloresD001
+git clone https://github.com/jousemarquez/MarquezFloresD01
 ```
 
 2. **Navigate to Practice 001:**
 ```
-cd MarquezFloresD001
+cd MarquezFloresD01
 ``````
 
 3. **Follow the Practice Guide:**
