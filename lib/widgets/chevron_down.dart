@@ -7,7 +7,7 @@ class ChevronDown extends StatelessWidget {
     return CenteredContainer(
       child: CupertinoButton(
         onPressed: () {
-          // Acciones al presionar el botón de chevron_down
+          //Navigator.pushNamed(context, '/counter');
         },
         padding: EdgeInsets.zero,
         child: Icon(
@@ -22,9 +22,7 @@ class ChevronDown extends StatelessWidget {
 
 class CenteredContainer extends StatelessWidget {
   final Widget child;
-
   const CenteredContainer({Key? key, required this.child}) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
     return Container(

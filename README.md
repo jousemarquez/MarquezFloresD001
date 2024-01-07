@@ -5,7 +5,7 @@
 
 ## Overview
 
-Practice 001:
+Practice 01:
 
 - You must create a copy in Flutter.
 - The widgets must be organized in folders.
@@ -17,6 +17,13 @@ Practice 001:
 ## Practice Focus
 
 📱 **Topic: Introduction to Flutter Basics**
+
+> [!NOTE]  
+> Update: 2024-01-07
+> - Update refresh button as class apart with UNICODE text.
+> - Update chevron to prepare next class about Routes.
+> - Update CounterButtons as class apart.
+> - Update counter functionallity to set 0 as initial value, also negative numbers are not displayed anymore.
 
 In Part 1, we will cover the fundamental concepts of Flutter, including:
 

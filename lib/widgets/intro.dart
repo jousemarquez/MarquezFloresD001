@@ -10,15 +10,10 @@ class Intro extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 100),
       child: SizedBox(
-        height: MediaQuery.of(context).size.height - 190,
+        height: MediaQuery.of(context).size.height - 240,
         child: const Row(
           mainAxisAlignment: MainAxisAlignment.spaceAround,
-          children: [
-            Description(),
-            SizedBox(),
-            Button(),
-            /*TODO ChevronDown(),*/
-          ],
+          children: [Description(), SizedBox(), Button()],
         ),
       ),
     );

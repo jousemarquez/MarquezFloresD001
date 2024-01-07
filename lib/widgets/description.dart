@@ -20,7 +20,8 @@ class Description extends StatelessWidget {
             height: 50,
           ),
           Text(
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+            'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do'
+            'eiusmod tempor incididunt ut labore et dolore magna aliqua.',
             style: TextStyle(
               fontSize: 20,
             ),
