@@ -25,23 +25,20 @@ Practice 01:
 > - Update CounterButtons as class apart.
 > - Update counter functionallity to set 0 as initial value, also negative numbers are not displayed anymore.
 
-In Part 1, we will cover the fundamental concepts of Flutter, including:
+<img src="https://github.com/jousemarquez/MarquezFloresD01/blob/master/PARTE2.png"></img>
 
-- Setting up a easy project structure based on Columns and Rows
-- Flutter Logo handling
-- Navbar implementation
-- Handling of Flutter Icons such as Search
-- Managing of Buttons and its customizations
+> [!NOTE]  
+> Update: 2023-12-19
+> - Setting up a easy project structure based on Columns and Rows
+> - Flutter Logo handling
+> - Navbar implementation
+> - Handling of Flutter Icons such as Search
+> - Managing of Buttons and its customizations
+> - Setting up a Popping masive font to rule up counter
+> - Methods to handling increment, decrement and back to the original counter set (13)
+> - Handling of Buttons properties such as Borders, colors and Flutter icons like Refresh.
 
-<img src="https://github.com/jousemarquez/MarquezFloresD01/raw/master/PART1.png"></img>
-
-In Part 2, I've created a dynamic counter following the Flutter concepts:
-
- - Setting up a Popping masive font to rule up counter
- - Methods to handling increment, decrement and back to the original counter set (13)
- - Handling of Buttons properties such as Borders, colors and Flutter icons like Refresh.
-
-<img src="https://github.com/jousemarquez/MarquezFloresD01/raw/master/PART2.png"></img>
+<img src="https://github.com/jousemarquez/MarquezFloresD01/blob/master/PARTE1.png"></img>
 
 ## How to Use
 
